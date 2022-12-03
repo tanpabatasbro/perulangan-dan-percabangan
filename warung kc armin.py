@@ -95,7 +95,7 @@ while True:
         print("Hanya Ada Opsi 1 Dan 2")
 
     lagi = input("Mau Pesan Lagi (yes/no)?")
-    if lagi == "no" or "NO":
+    if lagi == "no":
         break
 print("-------PROGRAM SELESAI-------")
 
